@@ -1,0 +1,1 @@
+This project is designed to analyze height and weight data. It can import data directly from an Excel file and generate two types of visualizations: a scatter plot to show the relationship between height and weight, and a bar chart for individual data points.
